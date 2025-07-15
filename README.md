@@ -44,14 +44,30 @@ This is a simple **Rock Paper Scissors** game built using **HTML**, **CSS**, and
    ```bash
    git clone https://github.com/RAJCHITTORIYA/RockPaperScissors.git
 
-   Open the folder:
+   Open the folder: cd RockPaperScissors
 
-bash
-Copy
-Edit
-cd RockPaperScissors
 Open index.html in your web browser.
 
 ✅ That’s it! Play and enjoy.
 
+🎯 Learning Goals
+This project was created to practice:
 
+DOM Manipulation in JavaScript
+
+Event listeners for user interaction
+
+Basic game logic and conditionals
+
+Structuring a simple web project
+
+🙌 Contributing
+If you'd like to suggest improvements or fixes, feel free to open an issue or submit a pull request. Contributions are always welcome!
+
+📜 License
+This project is open-source and free to use for learning purposes.
+
+📣 Author
+👤 RAJ CHITTORIYA
+
+Thanks for checking out my project! If you found it helpful, consider giving it a ⭐ on GitHub!
